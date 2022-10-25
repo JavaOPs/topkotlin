@@ -1,7 +1,7 @@
 <img src="http://javaops.ru/static/img/logo/javaops_30.png" width="223"/>
 
 ## Курс в разработке
-## [Миграция проекта TopJava на Kotlin](https://javaops.ru/view/cloudjava)
+## [Миграция проекта TopJava на Kotlin](https://javaops.ru/view/topkotlin)
 
 ### [Программа](https://javaops.ru/view/topkotlin#program)
 
