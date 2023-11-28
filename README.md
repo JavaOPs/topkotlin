@@ -1,4 +1,3 @@
-  
 <img src="https://javaops.ru/static/images/title/you_kotlin.png"/>
 
 # Курс [Практика на Kotlin](https://javaops.ru/view/topkotlin)
@@ -11,3 +10,5 @@
 - Использование продвинутых возможностей Kotlin
 - Поддержка в специальной группе Telegram
 - Время прохождения не ограничено, материалы даются навсегда
+
+## [Инициализация Gradle-Kotlin проекта](https://javaops.ru/view/topkotlin/init)
